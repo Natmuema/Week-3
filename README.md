@@ -9,6 +9,7 @@ Project Requirements
 1.	CRUD Operations
 2.	Authentication
 3.	State Management
+
 •	Include a search bar that allows to search for tasks
 •	The application should be deployed to Netlify or Vercel
 •	The application should have a visually appealing UI
